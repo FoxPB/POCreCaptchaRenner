@@ -1,0 +1,22 @@
+PODS:
+  - lottie-ios (3.3.0)
+  - ReCaptcha (1.6.0):
+    - ReCaptcha/Core (= 1.6.0)
+  - ReCaptcha/Core (1.6.0)
+
+DEPENDENCIES:
+  - lottie-ios
+  - ReCaptcha
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - lottie-ios
+    - ReCaptcha
+
+SPEC CHECKSUMS:
+  lottie-ios: 6ac74dcc09904798f59b18cb3075c089d76be9ae
+  ReCaptcha: d493ed256054a7b6a7eabcaf0b47ec9a8f42a16e
+
+PODFILE CHECKSUM: 35726b58ecec6c0621a40198d1d2a34e06039ad3
+
+COCOAPODS: 1.11.2
